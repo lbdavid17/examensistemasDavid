@@ -1,10 +1,9 @@
 html{
-    background-color: antiquewhite;
+    background: gray;
 }
-
 h2{
-    color:blueviolet;
+    color:antiquewhite;
 }
-img{
-    width: 150px;
+img {
+	width: 150px;
 }
